@@ -8,3 +8,9 @@ a different company).
 
 
 More information: http://arxiv.org/pdf/1409.2329v4.pdf
+
+POS Tagging
+============================
+Modified original code for POS tagging for UVa Text Mining course. .953 accuracy on 10% of treebank
+data. Word embeddings pulled from Ronan and Collobert's 2011 paper, you can find a copy here:
+http://ronan.collobert.com/senna/
